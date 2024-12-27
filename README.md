@@ -1,1 +1,2 @@
-# 400-watt-solar-panel
+# What is a 400-watt-solar-panel?
+A 400-watt solar panel is a photovoltaic panel capable of producing 400 watts of electricity per hour under ideal conditions, such as peak sunlight. These panels are designed to convert sunlight into usable energy for powering devices, charging batteries, or feeding electricity into a grid. Due to their high power output, 400-watt solar panels are often used in residential, commercial, and off-grid applications. You can buy them at https://www.bougerv.com/products/400w-10bb-mono-bifaical-solar-panel
